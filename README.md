@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align="right" alt="coding width="400" src="![image](https://github.com/user-attachments/assets/a86b0d2d-3da2-4d48-9095-47d50038eb42)"
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantrajsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nishantrajsharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantrajsharma" alt="nishantrajsharma" /></a> </p>
