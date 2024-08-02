@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding width="400" src="![image](https://github.com/user-attachments/assets/a86b0d2d-3da2-4d48-9095-47d50038eb42)"
+"![image](https://github.com/user-attachments/assets/a86b0d2d-3da2-4d48-9095-47d50038eb42)"
 
 
 
